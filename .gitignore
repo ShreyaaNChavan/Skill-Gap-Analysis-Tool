@@ -1,0 +1,13 @@
+
+# Ignore environment variables
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore node modules
+node_modules/
+
+# Ignore OS files
+.DS_Store
